@@ -1,2 +1,2 @@
-# Social-Media-
+# Social-Media
 Web application 
